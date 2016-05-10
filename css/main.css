@@ -1,0 +1,58 @@
+.brand-logo{
+	font-family: Shadows Into Light;
+	font-size: 2.5rem;
+}
+
+.right a{
+	font-family: Shadows Into Light;
+	font-size: 1.3rem;
+}
+
+.right-align h3{
+	font-size: 50px;
+	font-family: Shadows Into Light;
+}
+
+.right-align h5{
+	font-size: 35px;
+	font-family: Architects Daughter;
+}
+
+.center-align h3{
+	font-size: 60px;
+	font-family: Shadows Into Light;
+}
+
+.center-align h5{
+	font-size: 20px;
+	font-family: Architects Daughter;
+}
+
+.card{
+	height: 50%;
+}
+
+.news h1, .gallery h1, .contact h1{
+	font-size: 30px;
+	font-family: Shadows Into Light;
+}
+
+.news span{
+	font-size: 18px;
+	font-family: Shadows Into Light;
+}
+
+.news p, .contact p, .page-footer p{
+	font-size: 14px;
+	font-family: Architects Daughter;
+}
+
+.contact label, .page-footer a, .footer-copyright{
+	font-size: 12px;
+	font-family: Architects Daughter;
+}
+
+.page-footer h5{
+	font-size: 22px;
+	font-family: Shadows Into Light;
+}
